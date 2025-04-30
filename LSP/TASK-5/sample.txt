@@ -1,0 +1,8 @@
+This is an example of a Bash script.
+Another example is using loops.
+Pipes and filters are a great example.
+Learning by example is effective.
+Practice makes perfect.
+This line does not contain the keyword.
+Example scripts are easy to write.
+
